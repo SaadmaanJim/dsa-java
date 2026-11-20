@@ -1,4 +1,4 @@
-package basics;
+package basics_deFrosting;
 
 public class SumOfTwoNumber {
     public static void main(String[] args) {

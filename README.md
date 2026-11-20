@@ -3,4 +3,4 @@
 Learning Data Structures & Algorithms from scratch in Java.
 
 ## Structure
-- `src/basics` - Java fundamentals
+- `src/basics_deFrosting` - Java fundamentals
